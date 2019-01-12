@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmpApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="submit">Submit</string>
+    <string name="submitfloatingbutton">Successfully Added</string>
+</resources>

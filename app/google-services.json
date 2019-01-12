@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971258915038",
+    "firebase_url": "https://empapp-20fbc.firebaseio.com",
+    "project_id": "empapp-20fbc",
+    "storage_bucket": "empapp-20fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971258915038:android:26ae0196760f0c19",
+        "android_client_info": {
+          "package_name": "apps.onkar.android.empapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971258915038-kcpmijk1gu9ghkemhv7q7su51k035rpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.onkar.android.empapp",
+            "certificate_hash": "081e65c587e2eac8234183de566543c7b944952c"
+          }
+        },
+        {
+          "client_id": "971258915038-sq4ov1q05cvr83icl1lknrfjc4lboht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSlhE2gI2GGcXmGZBQTzmLjgeTbc_s8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971258915038-sq4ov1q05cvr83icl1lknrfjc4lboht0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
